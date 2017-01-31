@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TxTranslation dictionary file. Use TxEditor to edit this file. http://unclassified.software/txtranslation -->
+<translation xml:space="preserve">
+	<culture name="en" primary="true">
+		<text key="Buttons.Copy">Copy</text>
+		<text key="Buttons.Delete">Delete</text>
+		<text key="Buttons.Edit">Edit</text>
+		<text key="Buttons.New">New</text>
+		<text key="Buttons.Remove">Remove</text>
+		<text key="Device.Configuration">Configuration</text>
+		<text key="Device.Configuration.Lightbar">Lightbar</text>
+		<text key="Device.Configuration.Lightbar.Charged">Charged</text>
+		<text key="Device.Configuration.Lightbar.Charging">Charging</text>
+		<text key="Device.Configuration.Lightbar.OnBattery">On Battery</text>
+		<text key="Device.Configuration.Status">View controller status</text>
+		<text key="Device.Configuration.TrackpadAsMouse">Use trackpad as mouse</text>
+		<text key="Device.ExclusiveWarning">This device is capible of exclusive access for increased game compatibility, however was unable to connect exclusively.
+This is typically due to another application or system process competing for control of the device.
+
+To attempt to retry connection click this button.</text>
+		<text key="Donation.BannerText">This banner and the content theirin helps keep the InputMapper project alive. It can be removed through a small one time donation by clicking this.</text>
+		<text key="Donation.Button">Donate to InputMapper</text>
+		<text key="Donation.Description">InputMapper is a free application, but like any other online application, it has its overhead. Because of this InputMapper is community funded, either through ads or through donations.
+
+Our hope is to meet or exceed costs each and every month thus allowing this project to continue to grow and thrive! As an thank you, if you donate $2 (USD) or more, your InputMapper account will be upgraded to premium to permanently remove the ads from your copy of the IM!
+                            </text>
+		<text key="Menu.Account">Account</text>
+		<text key="Menu.Account.Create">Create a new account</text>
+		<text key="Menu.Account.Forgot">Forgot Login</text>
+		<text key="Menu.Account.Guest">Guest</text>
+		<text key="Menu.Account.Login">Login</text>
+		<text key="Menu.Account.Logout">Logout</text>
+		<text key="Menu.Account.Password">Password:</text>
+		<text key="Menu.Account.Username">Username:</text>
+		<text key="Menu.File">File</text>
+		<text key="Menu.File.Quit">Quit</text>
+		<text key="Menu.Help">Help</text>
+		<text key="Menu.Help.About">About InputMapper</text>
+		<text key="Menu.Help.About.Donate">Show your support for InputMapper by donating</text>
+		<text key="Menu.Help.About.EliteDonors">Elite Donors are InputMapper community users who have shown special interest in the project and have donated $25 or more.</text>
+		<text key="Menu.Help.About.SupportBenjamin">Support Benjamin by pledging to his Patreon</text>
+		<text key="Menu.Help.About.ThankBenjamin">Special thanks to Benjamin Höglinger whose continued work on device drivers make utilities such as this one possible.</text>
+		<text key="Menu.Help.About.ThankDonors">Special thanks to the following Elite Donors for their continued support of the InputMapper project.</text>
+		<text key="Menu.Help.Forum">Forum</text>
+		<text key="Status">Status</text>
+		<text key="Status.CPU">CPU:</text>
+		<text key="Status.MEM">MEM:</text>
+		<text key="Tab.Announcements">Announcements</text>
+		<text key="Tab.Donations">Donations</text>
+		<text key="Tab.Macros">Macros</text>
+		<text key="Tab.Macros.Commands">Commands</text>
+		<text key="Tab.Macros.Commands.DeviceOutput">Device Output</text>
+		<text key="Tab.Macros.Commands.DeviceOutput.Cursor">Cursor</text>
+		<text key="Tab.Macros.Commands.DeviceOutput.Keyboard">Keyboard</text>
+		<text key="Tab.Macros.Commands.Functions">Functions</text>
+		<text key="Tab.Macros.Commands.Functions.Pause">Pause</text>
+		<text key="Tab.Macros.Commands.Record">Record</text>
+		<text key="Tab.Macros.Commands.Record.Controller">Controller</text>
+		<text key="Tab.Macros.Commands.Record.ControllerSettings">Controller Settings</text>
+		<text key="Tab.Macros.Commands.Record.Keyboard">Keyboard</text>
+		<text key="Tab.Macros.Commands.Record.KeyboardSettings">Keyboard Settings</text>
+		<text key="Tab.Macros.Commands.Record.KeyboardSettings.RecordPauses">Record pauses</text>
+		<text key="Tab.Macros.Commands.Record.KeyboardSettings.RecordPressReleaseSeperate">Record press and releases seperately</text>
+		<text key="Tab.Macros.Commands.Record.KeyboardSettings.RecordRepeats">Record repeats</text>
+		<text key="Tab.Macros.Commands.Record.Mouse">Mouse</text>
+		<text key="Tab.Macros.Commands.Record.MouseSettings">Mouse Settings</text>
+		<text key="Tab.Macros.Commands.Test">Test</text>
+		<text key="Tab.Macros.Description">Description</text>
+		<text key="Tab.Macros.MacroName">Macro Name</text>
+		<text key="Tab.Macros.MacroStudio">Macro Studio</text>
+		<text key="Tab.Macros.Triggers">Triggers</text>
+		<text key="Tab.Macros.Triggers.Controller">Controller</text>
+		<text key="Tab.Macros.Triggers.Controller.ChannelCondition">Channel Condition</text>
+		<text key="Tab.Macros.Triggers.Controller.DeviceCondition">Device Condition</text>
+		<text key="Tab.Profiles">Profiles</text>
+		<text key="Tab.Profiles.NewProfileFilename">New Profile</text>
+		<text key="Tab.Settings">Settings</text>
+		<text key="Tab.Settings.Language">Language</text>
+		<text key="Tx:byte unit" comment="Default: B" />
+		<text key="Tx:colon" comment="Can be used to insert additional spacing like for French." />
+		<text key="Tx:date.day" comment="Default: %d" />
+		<text key="Tx:date.day.tab" comment="Default: dd" />
+		<text key="Tx:date.dow with date" comment="Combines a day of week with a date. Default: {dow}, {date}" />
+		<text key="Tx:date.month.abbr" comment="Default: MMM" />
+		<text key="Tx:date.month.long" comment="Default: MMMM" />
+		<text key="Tx:date.month day" comment="Default: MM-dd">d/M</text>
+		<text key="Tx:date.month day.abbr" comment="Default: d MMM">d MMM</text>
+		<text key="Tx:date.month day.long" comment="Default: M">d MMMM</text>
+		<text key="Tx:date.month day.tab" comment="Default: MM-dd">dd/MM</text>
+		<text key="Tx:date.year" comment="Default: yyyy" />
+		<text key="Tx:date.year month" comment="Default: yyyy-MM">M/yyyy</text>
+		<text key="Tx:date.year month.abbr" comment="Default: MMM yyyy">MMM yyyy</text>
+		<text key="Tx:date.year month.long" comment="Default: Y" />
+		<text key="Tx:date.year month.tab" comment="Default: yyyy-MM">MM/yyyy</text>
+		<text key="Tx:date.year month day" comment="Default: d">d/M/yyyy</text>
+		<text key="Tx:date.year month day.abbr" comment="Default: d MMM yyyy">d MMM yyyy</text>
+		<text key="Tx:date.year month day.long" comment="Default: d MMMM yyyy">d MMMM yyyy</text>
+		<text key="Tx:date.year month day.tab" comment="Default: d">dd/MM/yyyy</text>
+		<text key="Tx:enum.and.combiner">, </text>
+		<text key="Tx:enum.and.last combiner"> and </text>
+		<text key="Tx:enum.or.combiner">, </text>
+		<text key="Tx:enum.or.last combiner"> or </text>
+		<text key="Tx:number.group separator" comment="Number thousands group separator. International recommendation is a narrow non-breaking space."> </text>
+		<text key="Tx:number.group separator threshold" comment="The minimum value for thousands group separators to be used at all.">1</text>
+		<text key="Tx:number.negative" comment="Negative number prefix.">−</text>
+		<text key="Tx:number.ordinal" comment="Ordinal numbers, male or default.">{#}th</text>
+		<text key="Tx:number.ordinal" count="1" mod="10">{#}st</text>
+		<text key="Tx:number.ordinal" count="2" mod="10">{#}nd</text>
+		<text key="Tx:number.ordinal" count="3" mod="10">{#}rd</text>
+		<text key="Tx:number.ordinal" count="11" mod="100">{#}th</text>
+		<text key="Tx:number.ordinal" count="12" mod="100">{#}th</text>
+		<text key="Tx:number.ordinal" count="13" mod="100">{#}th</text>
+		<text key="Tx:number.ordinal f" comment="Ordinal numbers, female if special." />
+		<text key="Tx:number.unit separator" comment="Separator between a number and its unit. Should be a non-breaking space. Should only be used for relatively short unit symbols, not longer names."> </text>
+		<text key="Tx:quote begin" comment="Opening regular quotation mark.">“</text>
+		<text key="Tx:quote end" comment="Closing regular quotation mark.">”</text>
+		<text key="Tx:quote nested begin" comment="Opening nested/secondary quotation mark.">‘</text>
+		<text key="Tx:quote nested end" comment="Closing nested/secondary quotation mark.">’</text>
+		<text key="Tx:time.am" comment="a.m. (ante meridiem), used for 12-hour clocks.">am</text>
+		<text key="Tx:time.hour" comment="Default: %H">h tt</text>
+		<text key="Tx:time.hour.tab" comment="Default: HH">hh tt</text>
+		<text key="Tx:time.hour minute" comment="Default: t">h:mm tt</text>
+		<text key="Tx:time.hour minute.tab" comment="Default: t">HH:mm</text>
+		<text key="Tx:time.hour minute second" comment="Default: T">h:mm:ss tt</text>
+		<text key="Tx:time.hour minute second.tab" comment="Default: T">HH:mm:ss</text>
+		<text key="Tx:time.hour minute second ms" comment="Default: H:mm:ss.fff">h:mm:ss.fff tt</text>
+		<text key="Tx:time.hour minute second ms.tab" comment="Default: HH:mm:ss.fff">HH:mm:ss.fff</text>
+		<text key="Tx:time.never" comment="No point in time.">never</text>
+		<text key="Tx:time.now" comment="At the current time.">now</text>
+		<text key="Tx:time.pm" comment="p.m. (post meridiem), used for 12-hour clocks.">pm</text>
+		<text key="Tx:time.relative" comment="A point in time in the future.">in {interval}</text>
+		<text key="Tx:time.relative.days">{#} days</text>
+		<text key="Tx:time.relative.days" count="1">{#} day</text>
+		<text key="Tx:time.relative.days.single">{#} days</text>
+		<text key="Tx:time.relative.days.single" count="1">a day</text>
+		<text key="Tx:time.relative.hours">{#} hours</text>
+		<text key="Tx:time.relative.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative.hours.single">{#} hours</text>
+		<text key="Tx:time.relative.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative.minutes">{#} minutes</text>
+		<text key="Tx:time.relative.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative.months">{#} months</text>
+		<text key="Tx:time.relative.months" count="1">{#} month</text>
+		<text key="Tx:time.relative.months.single">{#} months</text>
+		<text key="Tx:time.relative.months.single" count="1">a month</text>
+		<text key="Tx:time.relative.seconds">{#} seconds</text>
+		<text key="Tx:time.relative.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative.years">{#} years</text>
+		<text key="Tx:time.relative.years" count="1">{#} year</text>
+		<text key="Tx:time.relative.years.single">{#} years</text>
+		<text key="Tx:time.relative.years.single" count="1">a year</text>
+		<text key="Tx:time.relative neg" comment="A point in time in the past.">{interval} ago</text>
+		<text key="Tx:time.relative neg.days">{#} days</text>
+		<text key="Tx:time.relative neg.days" count="1">{#} day</text>
+		<text key="Tx:time.relative neg.days.single">{#} days</text>
+		<text key="Tx:time.relative neg.days.single" count="1">a day</text>
+		<text key="Tx:time.relative neg.hours">{#} hours</text>
+		<text key="Tx:time.relative neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative neg.hours.single">{#} hours</text>
+		<text key="Tx:time.relative neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative neg.minutes">{#} minutes</text>
+		<text key="Tx:time.relative neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative neg.months">{#} months</text>
+		<text key="Tx:time.relative neg.months" count="1">{#} month</text>
+		<text key="Tx:time.relative neg.months.single">{#} months</text>
+		<text key="Tx:time.relative neg.months.single" count="1">a month</text>
+		<text key="Tx:time.relative neg.seconds">{#} seconds</text>
+		<text key="Tx:time.relative neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative neg.years">{#} years</text>
+		<text key="Tx:time.relative neg.years" count="1">{#} year</text>
+		<text key="Tx:time.relative neg.years.single">{#} years</text>
+		<text key="Tx:time.relative neg.years.single" count="1">a year</text>
+		<text key="Tx:time.relative span" comment="A point in time after another unspecified time.">{interval} later</text>
+		<text key="Tx:time.relative span.days">{#} days</text>
+		<text key="Tx:time.relative span.days" count="1">{#} day</text>
+		<text key="Tx:time.relative span.days.single">{#} days</text>
+		<text key="Tx:time.relative span.days.single" count="1">a day</text>
+		<text key="Tx:time.relative span.hours">{#} hours</text>
+		<text key="Tx:time.relative span.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative span.hours.single">{#} hours</text>
+		<text key="Tx:time.relative span.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative span.minutes">{#} minutes</text>
+		<text key="Tx:time.relative span.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative span.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative span.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative span.months">{#} months</text>
+		<text key="Tx:time.relative span.months" count="1">{#} month</text>
+		<text key="Tx:time.relative span.months.single">{#} months</text>
+		<text key="Tx:time.relative span.months.single" count="1">a month</text>
+		<text key="Tx:time.relative span.seconds">{#} seconds</text>
+		<text key="Tx:time.relative span.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative span.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative span.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative span.years">{#} years</text>
+		<text key="Tx:time.relative span.years" count="1">{#} year</text>
+		<text key="Tx:time.relative span.years.single">{#} years</text>
+		<text key="Tx:time.relative span.years.single" count="1">a year</text>
+		<text key="Tx:time.relative span neg" comment="A point in time before another unspecified time.">{interval} before</text>
+		<text key="Tx:time.relative span neg.days">{#} days</text>
+		<text key="Tx:time.relative span neg.days" count="1">{#} day</text>
+		<text key="Tx:time.relative span neg.days.single">{#} days</text>
+		<text key="Tx:time.relative span neg.days.single" count="1">a day</text>
+		<text key="Tx:time.relative span neg.hours">{#} hours</text>
+		<text key="Tx:time.relative span neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative span neg.hours.single">{#} hours</text>
+		<text key="Tx:time.relative span neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative span neg.minutes">{#} minutes</text>
+		<text key="Tx:time.relative span neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative span neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative span neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative span neg.months">{#} months</text>
+		<text key="Tx:time.relative span neg.months" count="1">{#} month</text>
+		<text key="Tx:time.relative span neg.months.single">{#} months</text>
+		<text key="Tx:time.relative span neg.months.single" count="1">a month</text>
+		<text key="Tx:time.relative span neg.seconds">{#} seconds</text>
+		<text key="Tx:time.relative span neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative span neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative span neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative span neg.years">{#} years</text>
+		<text key="Tx:time.relative span neg.years" count="1">{#} year</text>
+		<text key="Tx:time.relative span neg.years.single">{#} years</text>
+		<text key="Tx:time.relative span neg.years.single" count="1">a year</text>
+		<text key="Tx:time.span" comment="A time span from now on into the future or based at an unspecified time.">for {interval}</text>
+		<text key="Tx:time.span.days">{#} days</text>
+		<text key="Tx:time.span.days" count="1">{#} day</text>
+		<text key="Tx:time.span.days.single">{#} days</text>
+		<text key="Tx:time.span.days.single" count="1">a day</text>
+		<text key="Tx:time.span.hours">{#} hours</text>
+		<text key="Tx:time.span.hours" count="1">{#} hour</text>
+		<text key="Tx:time.span.hours.single">{#} hours</text>
+		<text key="Tx:time.span.hours.single" count="1">an hour</text>
+		<text key="Tx:time.span.minutes">{#} minutes</text>
+		<text key="Tx:time.span.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.span.minutes.single">{#} minutes</text>
+		<text key="Tx:time.span.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.span.months">{#} months</text>
+		<text key="Tx:time.span.months" count="1">{#} month</text>
+		<text key="Tx:time.span.months.single">{#} months</text>
+		<text key="Tx:time.span.months.single" count="1">a month</text>
+		<text key="Tx:time.span.seconds">{#} seconds</text>
+		<text key="Tx:time.span.seconds" count="1">{#} second</text>
+		<text key="Tx:time.span.seconds.single">{#} seconds</text>
+		<text key="Tx:time.span.seconds.single" count="1">a second</text>
+		<text key="Tx:time.span.years">{#} years</text>
+		<text key="Tx:time.span.years" count="1">{#} year</text>
+		<text key="Tx:time.span.years.single">{#} years</text>
+		<text key="Tx:time.span.years.single" count="1">a year</text>
+		<text key="Tx:time.span neg" comment="A time span from the past until now.">for {interval}</text>
+		<text key="Tx:time.span neg.days">{#} days</text>
+		<text key="Tx:time.span neg.days" count="1">{#} day</text>
+		<text key="Tx:time.span neg.days.single">{#} days</text>
+		<text key="Tx:time.span neg.days.single" count="1">a day</text>
+		<text key="Tx:time.span neg.hours">{#} hours</text>
+		<text key="Tx:time.span neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.span neg.hours.single">{#} hours</text>
+		<text key="Tx:time.span neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.span neg.minutes">{#} minutes</text>
+		<text key="Tx:time.span neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.span neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.span neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.span neg.months">{#} months</text>
+		<text key="Tx:time.span neg.months" count="1">{#} month</text>
+		<text key="Tx:time.span neg.months.single">{#} months</text>
+		<text key="Tx:time.span neg.months.single" count="1">a month</text>
+		<text key="Tx:time.span neg.seconds">{#} seconds</text>
+		<text key="Tx:time.span neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.span neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.span neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.span neg.years">{#} years</text>
+		<text key="Tx:time.span neg.years" count="1">{#} year</text>
+		<text key="Tx:time.span neg.years.single">{#} years</text>
+		<text key="Tx:time.span neg.years.single" count="1">a year</text>
+	</culture>
+	<culture name="ru">
+		<text key="Buttons.Copy">копия</text>
+		<text key="Buttons.Delete">Удалить</text>
+		<text key="Buttons.Edit">редактировать</text>
+		<text key="Buttons.New">новый</text>
+		<text key="Buttons.Remove">Удалить</text>
+		<text key="Device.Configuration">конфигурация</text>
+		<text key="Device.Configuration.Lightbar">световая</text>
+		<text key="Device.Configuration.Lightbar.Charged">заряженный</text>
+		<text key="Device.Configuration.Lightbar.Charging">Зарядка</text>
+		<text key="Device.Configuration.Lightbar.OnBattery">От батареи</text>
+		<text key="Device.Configuration.Status">Просмотр состояния контроллера</text>
+		<text key="Device.Configuration.TrackpadAsMouse">Используйте трекпад, как мышь</text>
+		<text key="Device.ExclusiveWarning">Это устройство capible эксклюзивного доступа для повышения совместимости игры, однако не удалось подключиться исключительно.
+Это, как правило, из-за другого процесса приложения или системы для управления конкурирующего устройства.
+
+Для того, чтобы попытаться повторить попытку соединения нажмите на эту кнопку.</text>
+		<text key="Donation.BannerText">Этот баннер и содержание theirin помогает сохранить проект InputMapper жив. Его можно удалить через небольшое пожертвование один раз, нажав эту.</text>
+		<text key="Donation.Button">Поддержать InputMapper</text>
+		<text key="Donation.Description" acceptpunctuation="true">InputMapper это бесплатное приложение, но, как и любой другой интернет-приложения, он имеет накладных расходов. Из-за этого InputMapper это сообщество финансируется, либо с помощью рекламы или за счет пожертвований.
+
+Наша надежда состоит в том, чтобы соответствовать или превосходить затраты на каждый, и, таким образом, каждый месяц позволяя этот проект будет продолжать расти и процветать! В качестве благодарности вам, если вы пожертвовать $ 2 (USD) или больше, ваш счет InputMapper будет повышен до премии, чтобы навсегда удалить объявления из вашей копии IM!</text>
+		<text key="Menu.Account">Счет</text>
+		<text key="Menu.Account.Create">Создать новый аккаунт</text>
+		<text key="Menu.Account.Forgot">Забыли имя или пароль</text>
+		<text key="Menu.Account.Guest">гость</text>
+		<text key="Menu.Account.Login">Авторизоваться</text>
+		<text key="Menu.Account.Logout">Выйти</text>
+		<text key="Menu.Account.Password">пароль:</text>
+		<text key="Menu.Account.Username">Имя пользователя:</text>
+		<text key="Menu.File">файл</text>
+		<text key="Menu.File.Quit">прекращать</text>
+		<text key="Menu.Help">Помогите</text>
+		<text key="Menu.Help.About">Около InputMapper</text>
+		<text key="Menu.Help.About.Donate">Покажите свою поддержку InputMapper, пожертвовав</text>
+		<text key="Menu.Help.About.EliteDonors">Elite Доноры InputMapper сообщество пользователей, которые проявили особый интерес к проекту и пожертвовали $ 25 (USD) или более.</text>
+		<text key="Menu.Help.About.SupportBenjamin">Поддержка Вениамина, пообещав его Patreon</text>
+		<text key="Menu.Help.About.ThankBenjamin">Особая благодарность Benjamin Höglinger, чьи продолжение работы над драйверами устройств делают утилиты, такие как этот возможно.</text>
+		<text key="Menu.Help.About.ThankDonors">Особая благодарность следующим Элит донорам за их постоянную поддержку проекта InputMapper.</text>
+		<text key="Menu.Help.Forum">Форум</text>
+		<text key="Status">статус</text>
+		<text key="Status.CPU">ЦПУ:</text>
+		<text key="Status.MEM">ОЗУ:</text>
+		<text key="Tab.Announcements">сообщение</text>
+		<text key="Tab.Donations">Пожертвования</text>
+		<text key="Tab.Macros">макрос</text>
+		<text key="Tab.Profiles">профили</text>
+		<text key="Tab.Profiles.NewProfileFilename">Новый профиль</text>
+		<text key="Tab.Settings">настройки</text>
+		<text key="Tab.Settings.Language">язык</text>
+	</culture>
+	<culture name="zh-CN">
+		<text key="Buttons.Copy">复制</text>
+		<text key="Buttons.Delete">删除</text>
+		<text key="Buttons.Edit">编辑</text>
+		<text key="Buttons.New">新</text>
+		<text key="Buttons.Remove">去掉</text>
+		<text key="Device.Configuration">组态</text>
+		<text key="Device.Configuration.Lightbar">灯条</text>
+		<text key="Device.Configuration.Lightbar.Charged">带电</text>
+		<text key="Device.Configuration.Lightbar.Charging">充电</text>
+		<text key="Device.Configuration.Lightbar.OnBattery">电池</text>
+		<text key="Device.Configuration.Status">查看控制器状态</text>
+		<text key="Device.Configuration.TrackpadAsMouse">触摸板作为鼠标</text>
+		<text key="Device.ExclusiveWarning" acceptpunctuation="true">这个设备可以独占访问增加游戏兼容性，但是无法完全连接。
+这通常是由于竞争控制设备的另一应用或系统进程。
+
+要尝试重试连接，请单击此按钮。</text>
+		<text key="Donation.BannerText" acceptpunctuation="true">这个横幅和内容他们帮助保持InputMapper项目活着。 它可以通过点击一次小的一次捐赠被删除。</text>
+		<text key="Donation.Button">向InputMapper捐赠</text>
+		<text key="Donation.Description" acceptpunctuation="true">InputMapper是一个免费的应用程序，但像任何其他在线应用程序，它有它的开销。 因为这个InputMapper是社区资助的，通过广告或通过捐赠。
+
+我们的希望是每个月达到或超过成本，从而允许这个项目继续成长和繁荣！ 作为一个谢谢，如果你捐赠2美元或更多，你的InputMapper帐户将升级为溢价永久删除的广告从你的IM的副本！</text>
+		<text key="Menu.Account">帐户</text>
+		<text key="Menu.Account.Create">创建一个新账户</text>
+		<text key="Menu.Account.Forgot">忘记登录</text>
+		<text key="Menu.Account.Guest">客人</text>
+		<text key="Menu.Account.Login">登录</text>
+		<text key="Menu.Account.Logout">登出</text>
+		<text key="Menu.Account.Password">密码:</text>
+		<text key="Menu.Account.Username">用户名:</text>
+		<text key="Menu.File">文件</text>
+		<text key="Menu.File.Quit">放弃</text>
+		<text key="Menu.Help">帮帮我</text>
+		<text key="Menu.Help.About">关于InputMapper</text>
+		<text key="Menu.Help.About.Donate">通过捐赠显示您对InputMapper的支持</text>
+		<text key="Menu.Help.About.EliteDonors" acceptpunctuation="true">Elite Donors是对该项目表现出特别兴趣并捐赠了25美元或更多的InputMapper社区用户。</text>
+		<text key="Menu.Help.About.SupportBenjamin">支持本杰明通过保证他的Patreon</text>
+		<text key="Menu.Help.About.ThankBenjamin" acceptpunctuation="true">特别感谢Benjamin Höglinger，他继续工作的设备驱动程序使这样的实用程序成为可能。</text>
+		<text key="Menu.Help.About.ThankDonors" acceptpunctuation="true">特别感谢以下Elite Donors继续支持InputMapper项目。</text>
+		<text key="Menu.Help.Forum">论坛</text>
+		<text key="Status">状态</text>
+		<text key="Status.CPU">中央处理器:</text>
+		<text key="Status.MEM">记忆:</text>
+		<text key="Tab.Announcements">公告</text>
+		<text key="Tab.Donations">捐款</text>
+		<text key="Tab.Macros">宏</text>
+		<text key="Tab.Profiles">控制器设置</text>
+		<text key="Tab.Profiles.NewProfileFilename">新的配置文件</text>
+		<text key="Tab.Settings">设置</text>
+		<text key="Tab.Settings.Language">语言</text>
+	</culture>
+</translation>
